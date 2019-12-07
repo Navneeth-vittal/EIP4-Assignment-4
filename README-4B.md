@@ -1,4 +1,4 @@
-# EIP4-Assignment-4B
+# EIP4-Assignment-4-Assignment-4B
 
 Epoch 1/50
 Learning rate:  0.001
