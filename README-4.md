@@ -1,3 +1,10 @@
+# EIP4-Assignment-4-Assignment-4A
+ Finished online annotation.
+
+
+
+
+
 # EIP4-Assignment-4-Assignment-4B
 
 Epoch 1/50
